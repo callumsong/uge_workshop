@@ -17,3 +17,7 @@ cat gives text that is output and prints on screen
 --version gives which version of software it is
 
 | is piping - putting in an output as an input
+
+ls -la shows EVERYTHING
+
+hidden files start with a .

@@ -1,0 +1,19 @@
+Most data is stored in plain text files so as to see how a computer would read it
+
+Unix allows for subdirectories and many applications
+
+Program’s input can come from something other than a keyboard, and output goes somewhere other than screen
+
+Kernel manages the hardware
+
+Unix Shell provides user interface to interact with kernel - original was command line interface to be interpreted by the computer, then graphical UI, then multi-touch and audible UI. It is a shell to protect it from the kernel.
+
+Paths - a path is absolute when it starts with / and relative when it does not
+
+history gives a history of all the commands that has been written prior. | less gives it an easier interface so I can scroll up and down
+
+cat gives text that is output and prints on screen
+
+--version gives which version of software it is
+
+| is piping - putting in an output as an input

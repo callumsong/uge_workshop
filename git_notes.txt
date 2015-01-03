@@ -1,0 +1,3 @@
+git diff —-staged shows the changes made
+
+HEAD is the place in the timeline that is currently being looked at

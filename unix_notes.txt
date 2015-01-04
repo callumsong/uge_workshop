@@ -21,3 +21,5 @@ cat gives text that is output and prints on screen
 ls -la shows EVERYTHING
 
 hidden files start with a .
+
+touch is creating a new file
